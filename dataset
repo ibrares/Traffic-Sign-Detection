@@ -1,0 +1,6 @@
+train: B:/LICENTA/train.txt
+val: B:/LICENTA/val.txt
+test: B:/LICENTA/test.txt  # optional
+
+nc: 20
+names: ['prioritate', 'sens giratoriu', 'trecere de pietoni', 'stop', 'cedeaza trecerea', 'limita de viteza 20 km/h', 'limita de viteza 30 km/h', 'limita de viteza 50 km/h', 'banda pentru biciclete', 'prioritate la intersectie cu drum cu sens unic', 'drum fara iesire', 'sfarsitul tuturor restrictiilor', 'alte pericole', 'directie cu prioritate', 'animale', 'accesul interzis', 'circulatia interzisa in ambele sensuri', 'stationare interzisa', 'oprirea interzisa', 'parcare']
