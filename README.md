@@ -9,7 +9,7 @@ I used the YOLOv5 large object detection algorithm to achieve accurate and effic
 
 1. **Data Augmentation:**  
    I started with 18,000 images which I augmented to create 55,000 images across 20 classes.  
-   The Python code for augmentation can be found in the file [augmentation_code.py](path/to/augmentation_code.py).
+   The Python code for augmentation can be found in the file [augmentation_code.py](augmentation_code.py).
 
 2. **Dataset Splitting:**  
    I created three datasets: train, val and test.
