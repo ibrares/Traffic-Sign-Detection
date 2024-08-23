@@ -17,7 +17,7 @@ I used the YOLOv5 large object detection algorithm to achieve accurate and effic
 
 3. **Creating `dataset.yaml`:**  
    I created a `dataset.yaml` file which specifies the paths to the datasets and the classes.  
-   The YAML configuration will be utilized in the Python code [dataset_yaml_config.py](path/to/dataset_yaml_config.py).
+   The YAML configuration will be utilized in the Python code [dataset.yaml](dataset).
 
 4. **Creating `.txt` Files:**  
    For each image, I created corresponding `.txt` files containing annotation data.  
