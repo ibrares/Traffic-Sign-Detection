@@ -1,4 +1,4 @@
-# Traffic-Sign-Detection
+# Traffic-Signs-Detection
 
 ## Project Overview
 
